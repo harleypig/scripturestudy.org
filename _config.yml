@@ -1,3 +1,4 @@
 name: HarleyPig's Scripture Study Journal
 markdown: redcarpet
 pygments: true
+timezone: America/Boise
