@@ -1,4 +1,82 @@
 name: HarleyPig's Scripture Study Journal
-markdown: redcarpet
 pygments: true
-timezone: America/Boise
+
+# layouts:     ./_layouts
+# keep_files:  ['.git','.svn']
+# highlighter: pygments
+
+# Global Settings
+
+# source:      .
+# destination: ./_site
+# safe:        false
+# exclude:     []
+# include:     ['.htaccess']
+timezone:      America/Boise
+# encoding:    nil
+
+# Plugin settings
+
+# plugins:     ./_plugins
+# gems:        []
+
+# Build Options
+
+# show_drafts: nil
+future:        false
+# lsi:         false
+# limit_posts: 0
+
+# Serve Command Options
+
+# port:        4000
+# host:        0.0.0.0
+# baseurl:     /
+
+# relative_permalinks: true
+#
+# permalink:     date
+# paginate_path: 'page:num'
+# paginate:      nil
+
+markdown:        redcarpet
+# markdown:      kramdown
+# markdown_ext:  markdown,mkdown,mkdn,mkd,md
+# textile_ext:   textile
+#
+# excerpt_separator: "\n\n"
+#
+# url:         http://localhost:4000
+#
+# maruku:
+#   use_tex:    false
+#   use_divs:   false
+#   png_engine: blahtex
+#   png_dir:    images/latex
+#   png_url:    /images/latex
+#   fenced_code_blocks: true
+#
+# rdiscount:
+#   extensions: []
+#
+# redcarpet:
+#   extensions: []
+#
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   use_coderay: false
+#
+#   coderay:
+#     coderay_wrap: div
+#     coderay_line_numbers: inline
+#     coderay_line_numbers_start: 1
+#     coderay_tab_width: 4
+#     coderay_bold_every: 10
+#     coderay_css: style
+#
+# redcloth:
+#   hard_breaks: true
