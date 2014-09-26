@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Maybe I'm Not Supposed To Do This"
+comments: true
 ---
 
 I meant to get something a little meatier out today, but I got sidetracked

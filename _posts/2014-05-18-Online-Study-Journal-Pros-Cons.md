@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Church's Online Journal Pros and Cons"
+comments: true
 ---
 
 In my initial post, I said I was using the LDS church's online journaling
