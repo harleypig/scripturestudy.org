@@ -10,4 +10,4 @@ Annotation:
 
 * [Annotator.js](http://annotatorjs.org/) ([Repository](https://github.com/openannotation/annotator))
 * [Annotorious](https://annotorious.github.io/) ([Repository](https://github.com/annotorious/annotorious))
-* [Marginalia](http://webmarginalia.net/) ([https://code.google.com/p/marginalia/])
+* [Marginalia](http://webmarginalia.net/) ([Repository](https://code.google.com/p/marginalia/))
